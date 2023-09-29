@@ -28,6 +28,8 @@ const NewJobForm = () =>
             {jobType === 'employment' ? <FormExperience/> : null}
 
             <input type='submit' value="Post" className='btn btn-secondary form-button'/>
+
+            <br/><br/>
         </form>
     </div>
 }
