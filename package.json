@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "@faker-js/faker": "^8.0.2"
+    "@faker-js/faker": "^8.0.2",
+    "@babel/plugin-proposal-private-property-in-object": "^0.0.1"
   }
 }
